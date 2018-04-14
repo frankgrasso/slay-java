@@ -1,4 +1,4 @@
-# slay-php
+# slay-java
 Free, Open Source shopping cart backend written in php.
 
 ### Features:
