@@ -1,5 +1,5 @@
 # slay-java
-Free, Open Source shopping cart backend written in php.
+Free, Open Source shopping cart backend written in Java using WebSockets and SQL and PHP to serve and process the frontend templates.
 
 ### Features:
 + Extensible Template Engine
